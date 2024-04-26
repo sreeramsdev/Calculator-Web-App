@@ -1,0 +1,230 @@
+body{
+    background-color: rgb(216, 231, 226);
+}
+
+.calc{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    margin-left: 650px;
+}
+
+.main{
+    background-color: black;
+    height: 550px;
+    width: 400px;
+    border-radius: 10px;
+    margin-left: 570px;
+}
+
+.main1{
+    height: 100px;
+    width: 350px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    left: 25px;
+    top: 25px;
+    border-radius: 10px;
+    
+}
+.main1 #inputnum1{
+    height: 100px;
+    width: 350px;
+    border-radius: 10px;
+    font-size: 50px;
+    
+
+}
+
+.main2{
+    display: flex;
+    margin-top: 60px;
+    gap: 20px;
+    margin-left: 50px;
+    
+}
+
+.main2-1 button{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    background-color: rgb(190, 190, 190);
+    font-weight: bold;
+}
+.main2-2 button{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    font-weight: bold;
+    background-color: rgb(190, 190, 190)
+    
+}
+.main2-3 button{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    background-color: rgb(190, 190, 190);
+    font-weight: bold;
+}
+.main2-4 button{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    background-color: rgb(241, 157, 0);
+    color: white;
+    font-weight: bold;
+}
+.main3{
+    display: flex;
+    margin-top: 10px;
+    gap: 20px;
+    margin-left: 50px;
+}
+
+.main3-1 button{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    background-color: rgb(43, 42, 42);
+    color: white;
+    font-weight: bold;
+}
+.main3-2 button{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    background-color: rgb(43, 42, 42);
+    color: white;
+    font-weight: bold;
+
+}
+.main3-3 button{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    background-color: rgb(43, 42, 42);
+    color: white;
+    font-weight: bold;
+}
+.main3-4 button{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    background-color: rgb(241, 157, 0);
+    color: white;
+    font-weight: bold;
+}
+
+.main4{
+    display: flex;
+    margin-top: 10px;
+    gap: 20px;
+    margin-left: 50px;
+}
+
+.main4-1 button{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    background-color: rgb(43, 42, 42);
+    color: white;
+    font-weight: bold;
+}
+.main4-2 button{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    background-color: rgb(43, 42, 42);
+    color: white;
+    font-weight: bold;
+
+}
+.main4-3 button{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    background-color: rgb(43, 42, 42);
+    color: white;
+    font-weight: bold;
+}
+.main4-4 button{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    background-color: rgb(241, 157, 0);
+    color: white;
+    font-weight: bold;
+}
+
+.main5{
+    display: flex;
+    margin-top: 10px;
+    gap: 20px;
+    margin-left: 50px;
+}
+
+.main5-1 button{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    background-color: rgb(43, 42, 42);
+    color: white;
+    font-weight: bold;
+}
+.main5-2 button{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    background-color: rgb(43, 42, 42);
+    color: white;
+    font-weight: bold;
+
+}
+.main5-3 button{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    background-color: rgb(43, 42, 42);
+    color: white;
+    font-weight: bold;
+}
+.main5-4 button{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    background-color: rgb(241, 157, 0);
+    color: white;
+    font-weight: bold;
+}
+
+.main6{
+    display: flex;
+    margin-top: 10px;
+    gap: 20px;
+    margin-left: 50px;
+}
+
+.main6-1 button{
+    height: 60px;
+    width: 140px;
+    border-radius: 35px;
+    background-color: rgb(43, 42, 42);
+    color: white;
+    font-weight: bold;
+}
+
+.main6-2 button{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    background-color: rgb(43, 42, 42);
+    color: white;
+    font-weight: bold;
+}
+.main6-3 button{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    background-color: rgb(241, 157, 0);
+    color: white;
+    font-weight: bold;
+}
